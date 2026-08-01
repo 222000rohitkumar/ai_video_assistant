@@ -192,7 +192,7 @@ You'll be prompted for a source and language, then dropped into an interactive c
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/222000rohitkumar/ai_video_assistant/issues) or open a pull request.
+Feel free to check the [issues page](https://github.com/222000rohitkumar/ai_video_assistant/blob/main/LICENSE) or open a pull request.
 
 ---
 
