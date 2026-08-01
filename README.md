@@ -198,7 +198,7 @@ Feel free to check the [issues page](https://github.com/222000rohitkumar/ai_vide
 
 ## 📄 License
 
-This project is currently unlicensed. Consider adding an [MIT License](https://choosealicense.com/licenses/mit/) if you intend for others to freely use and modify this project.
+ [MIT License](https://choosealicense.com/licenses/mit/) 
 
 ---
 
