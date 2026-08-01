@@ -1,0 +1,136 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================
+# Virtual Environment
+# ==========================
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# IDEs
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+logs/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Testing
+# ==========================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==========================
+# Type Checkers
+# ==========================
+.mypy_cache/
+.pyre/
+.pytype/
+
+# ==========================
+# Cache
+# ==========================
+.cache/
+
+# ==========================
+# Model Files
+# ==========================
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.gguf
+
+# Hugging Face cache
+.huggingface/
+cache/
+
+# Whisper cache
+.whisper/
+
+# ==========================
+# Downloaded Media
+# ==========================
+downloads/
+downloaded/
+output/
+outputs/
+temp/
+tmp/
+audio/
+videos/
+generated/
+transcripts/
+
+# Keep folders even if empty
+!downloads/.gitkeep
+!output/.gitkeep
+
+# ==========================
+# Database
+# ==========================
+*.db
+*.sqlite3
+
+# ==========================
+# Misc
+# ==========================
+*.zip
+*.tar
+*.gz
+*.7z
+*.bak
+*.tmp
